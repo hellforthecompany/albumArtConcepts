@@ -1,0 +1,65 @@
+/*font-family: 'Passion One', cursive;
+font-family: 'Alfa Slab One', cursive;
+font-family: 'Black Ops One', cursive;
+font-family: 'Fredoka One', cursive;
+font-family: 'Changa One', cursive;
+font-family: 'Fugaz One', cursive;
+font-family: 'Audiowide', cursive;
+font-family: 'Press Start 2P', cursive;*/
+
+
+body {
+	background: #000000;
+	text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, input, textarea, div, span {	
+	color:red;
+	font-family: 'Passion One', cursive;
+}
+
+#main-wrap h1{
+	font-size: 80px;
+	letter-spacing: 2px;
+}
+
+#main-wrap .set-wrap{
+	display: block;
+	margin: 400px 0;
+}
+
+#main-wrap p{
+	color: #ffffff;
+}
+
+.passion {
+	font-family: 'Passion One', cursive;
+}	
+
+.alpha{
+	font-family: 'Alfa Slab One', cursive;
+}
+
+.black{
+	font-family: 'Black Ops One', cursive;
+}
+
+.fredoka{
+	font-family: 'Fredoka One', cursive;
+}
+
+.changa{
+	font-family: 'Changa One', cursive;
+}
+
+.fugaz{
+	font-family: 'Fugaz One', cursive;
+}
+
+.audiowide{
+	font-family: 'Audiowide', cursive;
+}
+
+.press-start{
+	font-family: 'Press Start 2P', cursive;
+}

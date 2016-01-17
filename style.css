@@ -5,8 +5,80 @@ font-family: 'Fredoka One', cursive;
 font-family: 'Changa One', cursive;
 font-family: 'Fugaz One', cursive;
 font-family: 'Audiowide', cursive;
-font-family: 'Press Start 2P', cursive;*/
+font-family: 'Press Start 2P', cursive;
 
+
+font-family: 'Roboto', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Lora', serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Arimo', sans-serif;
+font-family: 'Dosis', sans-serif;
+font-family: 'Bitter', serif;
+font-family: 'Oxygen', sans-serif;
+font-family: 'Hind', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Archivo Narrow', sans-serif;
+font-family: 'Play', sans-serif;
+
+
+font-family: 'Roboto Mono', ;
+font-family: 'Days One', sans-serif;
+font-family: 'Signika Negative', sans-serif;
+font-family: 'Alegreya Sans SC', sans-serif;
+font-family: 'Khula', sans-serif;
+font-family: 'Overlock', cursive;
+font-family: 'Work Sans', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Rubik', sans-serif;
+font-family: 'Sarpanch', sans-serif;
+font-family: 'Concert One', cursive;
+font-family: 'Hind Vadodara', sans-serif;
+font-family: 'Catamaran', sans-serif;
+font-family: 'Palanquin', sans-serif;
+font-family: 'Montserrat Subrayada', sans-serif;
+font-family: 'Hind Siliguri', sans-serif;
+
+font-family: 'Jura', sans-serif;
+font-family: 'Michroma', sans-serif;
+font-family: 'Aldrich', sans-serif;
+font-family: 'Prosto One', cursive;
+font-family: 'Monoton', cursive;
+font-family: 'Numans', sans-serif;
+script style
+font-family: 'Great Vibes', cursive;
+font-family: 'Pinyon Script', cursive;
+font-family: 'Parisienne', cursive;
+font-family: 'Italianno', cursive;
+
+
+new C's
+font-family: 'Dancing Script', cursive;
+font-family: 'Satisfy', cursive;
+font-family: 'Courgette', cursive;
+font-family: 'Mrs Saint Delafield', cursive;
+font-family: 'Felipa', cursive;
+*/
+.dancing-script{ font-family: 'Dancing Script', sans-serif; }
+.satisfy{ font-family: 'Satisfy', sans-serif; }
+.courgette{ font-family: 'Courgette', sans-serif; }
+.mrs-saint-delafield{ font-family: 'Mrs Saint Delafield', sans-serif; }
+.felipa{ font-family: 'Felipa', sans-serif; }
+
+
+.jura{ font-family: 'Jura', sans-serif; }
+.michroma{ font-family: 'Michroma', sans-serif; }
+.aldrich{ font-family: 'Aldrich', sans-serif; }
+.prosto-one{ font-family: 'Prosto One', sans-serif; }
+.monoton{ font-family: 'Monoton', cursive; }
+.numans{ font-family: 'Numans', sans-serif; }
+.great-vibes{ font-family: 'Great Vibes', sans-serif; }
+.pinyon-script{ font-family: 'Pinyon Script', sans-serif; }
+.parisienne{ font-family: 'Parisienne', sans-serif; }
+.italianno{ font-family: 'Italianno', sans-serif; }
 
 body {
 	background: #000000;
@@ -14,12 +86,27 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6, p, a, input, textarea, div, span {	
-	color:red;
+	color: #E01414;
 	font-family: 'Passion One', cursive;
 }
 
+.subtitle{
+	color: #E01414;
+	font-size: 60px;
+}
+
+#main-wrap .set-wrap p {
+	color: white;
+	margin-bottom: 300px;
+}
+
+#main-wrap .set-wrap.combo h1{
+	display: inline-block;
+	margin: 0 0;
+}
+
 #main-wrap h1{
-	font-size: 80px;
+	font-size: 240px;
 	letter-spacing: 2px;
 }
 
@@ -29,8 +116,156 @@ h1, h2, h3, h4, h5, h6, p, a, input, textarea, div, span {
 }
 
 #main-wrap p{
-	color: #ffffff;
+	color: #000000;
 }
+
+
+
+
+
+
+.roboto {
+font-family: 'Roboto', sans-serif;
+}
+
+.lato {
+font-family: 'Lato', sans-serif;
+}
+
+.lora {
+font-family: 'Lora', serif;
+}
+
+.raleway {
+font-family: 'Raleway', sans-serif;
+}
+
+.ptsans {
+font-family: 'PT Sans', sans-serif;
+}
+
+.ubuntu {
+font-family: 'Ubuntu', sans-serif;
+}
+
+.noto {
+font-family: 'Noto Sans', sans-serif;
+}
+
+.arimo {
+font-family: 'Arimo', sans-serif;
+}
+
+.dosis {
+font-family: 'Dosis', sans-serif;
+}
+
+.bitter {
+font-family: 'Bitter', serif;
+}
+
+.oxygen {
+font-family: 'Oxygen', sans-serif;
+}
+
+.hind {
+font-family: 'Hind', sans-serif;
+}
+
+.nunito {
+font-family: 'Nunito', sans-serif;
+}
+
+.archivonarrow {
+font-family: 'Archivo Narrow', sans-serif;
+}
+
+.play {
+font-family: 'Play', sans-serif;
+}
+
+
+
+
+
+
+
+
+.Roboto{
+font-family: 'Roboto Mono', ;
+}
+
+.Days{
+font-family: 'Days One', sans-serif;
+}
+
+.Signika{
+font-family: 'Signika Negative', sans-serif;
+}
+
+.Alegreya{
+font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.Khula{
+font-family: 'Khula', sans-serif;
+}
+
+.Overlock{
+font-family: 'Overlock', cursive;
+}
+
+.Work{
+font-family: 'Work Sans', sans-serif;
+}
+
+.Montserrat{
+font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.Rubik{
+font-family: 'Rubik', sans-serif;
+}
+
+.Sarpanch{
+font-family: 'Sarpanch', sans-serif;
+}
+
+.Concert{
+font-family: 'Concert One', cursive;
+}
+
+.Vadodara{
+font-family: 'Hind Vadodara', sans-serif;
+}
+
+.Catamaran{
+font-family: 'Catamaran', sans-serif;
+}
+
+.Palanquin{
+font-family: 'Palanquin', sans-serif;
+}
+
+.Subrayada{
+font-family: 'Montserrat Subrayada', sans-serif;
+}
+
+.Hind{
+font-family: 'Hind Siliguri', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 .passion {
 	font-family: 'Passion One', cursive;
